@@ -6,7 +6,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 - I'm a machine learning engineer focused on **LLMs**, **real-time prediction systems**, and **deep learning**.
 - Currently diving deep into **Generative AI**, **RAG pipelines**, and **MLOps** best practices.

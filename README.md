@@ -61,10 +61,10 @@
 
 ### 🤝 Open to Collaborate On
 
-- NLP or LLM-based projects (especially Arabic models and RAG)
-- Real-time systems (predictive maintenance, live dashboards)
+- NLP or LLM-based projects (especially Arabic models)
+- Real-time systems ( monitoring, analytics, automation, live dashboards)
 - MLOps pipelines or data visualization platforms
-
+- DevOps practices (CI/CD, Docker Compose, Nginx, shell scripting)
 ---
 
 ### 📫 Contact Me

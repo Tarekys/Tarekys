@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Tarek </h1>
 
 <p align="center">
-  Passionate about building intelligent systems powered by AI and real-time data
+ I'm an Architect of AI-Driven Intelligence, dedicated to crafting innovative systems fueled by artificial intelligence and real-time data.
 </p>
 
 ---

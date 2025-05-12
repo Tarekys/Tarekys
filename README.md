@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Tarek Yasser</h1>
+<h1 align="center">Hi there, I'm Tarek </h1>
 
 <p align="center">
   Passionate about building intelligent systems powered by AI and real-time data
